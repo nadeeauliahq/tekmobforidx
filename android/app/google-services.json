@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "510174481468",
+    "firebase_url": "https://tekmob-c063a-default-rtdb.firebaseio.com",
+    "project_id": "tekmob-c063a",
+    "storage_bucket": "tekmob-c063a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510174481468:android:ad1a052a6a5523b6b00739",
+        "android_client_info": {
+          "package_name": "com.example.cobatekmob"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyiZGJjYPvRZILI-075iy04EmsJJv9ERg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
